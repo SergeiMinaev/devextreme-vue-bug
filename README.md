@@ -6,3 +6,4 @@
   npm run build
   npm run serve
 ```
+И попробовать открыть инпут DxDateBox на странице.
