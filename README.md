@@ -6,4 +6,4 @@
   npm run build
   npm run serve
 ```
-И попробовать открыть инпут DxDateBox на странице.
+И попробовать открыть DxDateBox на странице, кликнув на кнопку инпута. В консоли будет ошибка `Uncaught TypeError: r[n] is not a function`
